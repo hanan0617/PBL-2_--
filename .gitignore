@@ -1,5 +1,0 @@
-# 데이터 파일은 Git이 무시하게 설정
-*.zip
-*.sas7bdat
-__pycache__/
-.DS_Store
